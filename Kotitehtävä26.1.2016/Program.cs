@@ -1,4 +1,7 @@
-﻿using System;
+﻿/* Jarmo Luostarinen @ student.jamk*/
+
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
